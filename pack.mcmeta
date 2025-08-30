@@ -1,6 +1,15 @@
 {
   "pack": {
     "pack_format": 15,
+    "supported_formats": [
+      15,
+      2147483647
+    ],
+    "min_format": 15,
+    "max_format": 2147483647,
     "description": "A reimproved look of Minecraft"
+  },
+  "overlays": {
+    "entries": []
   }
 }
